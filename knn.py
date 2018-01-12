@@ -168,3 +168,5 @@ predictions = classification(normTrain.values, classTrain.values, normTest.value
 #     plt.scatter(ii[0], ii[1], s=100, c=color)
 # plt.scatter(normTest.values[0][0], normTest.values[0][1], s=500)
 # plt.show()
+
+# JUST TRY TO MERGE REQUEST
